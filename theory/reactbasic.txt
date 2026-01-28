@@ -1,0 +1,31 @@
+React id javascript library to build Dynamic and interactive user interfaces.
+Developed at facebook in 2011.
+Currently most widely used JS library for frontend development.
+Used to create single page application.
+
+// Working of DOM 
+Browser takes HTML and create DOM.
+JS helps us modify DOM based on user actions or events.
+In big applications Working with DOM becomes complicated.
+
+// Problems with javascript
+
+React has a simpler mental model.
+JS is cumbersome.
+JS is Error-prone.
+JS is Hard to maintain.
+
+// Working of React
+No need to worry about querying and updating DOM.
+React creates a web page with small and reusable code.
+React will take care of creating and updating DOM element.
+IT saves a lot of time,cheeze aasan h phele se likhi hui h bhut saari cheezein
+
+
+// JS Vs React
+JS is imperative. You define steps to reach your desire state.
+
+//imp - React is Declarative. You define the target UI State and then figure out how to reach that state.
+
+// Introduction to Components
+Header, Footer, Sidebar
